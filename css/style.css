@@ -1,1 +1,9 @@
-font-family: 'Oswald', sans-serif;
+body{margin:auto;
+padding: 0;
+background-color: aqua;
+}
+
+header{margin:auto;
+    padding: 0;
+    background-color: azure;
+    font-family: 'Oswald', sans-serif;}
