@@ -1,9 +1,24 @@
 body{margin:auto;
 padding: 0;
 background-color: aqua;
+    width:75%;
 }
 
 header{margin:auto;
     padding: 0;
     background-color: azure;
-    font-family: 'Oswald', sans-serif;}
+    font-family: 'Oswald', sans-serif;
+width:100%
+}
+
+legend{margin:auto; background-color:  cadetblue;}
+
+span{margin:auto; background-color:  aliceblue;
+    
+}
+
+form{margin:auto; border:solid;color:aquamarine; background-color:sienna;width:50%;
+}
+
+
+
