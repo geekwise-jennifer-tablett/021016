@@ -11,12 +11,14 @@ header{margin:auto;
 width:100%
 }
 
-selection{margin:auto; background-color:  cadetblue;}
+legend{margin:auto; background-color:  cadetblue;}
 
-span{background-color: aliceblue;
+span{margin:auto; background-color:  aliceblue;
     
 }
 
-fieldset{background-color: coral;}
+form{margin:auto; border:solid;color:aquamarine; background-color:sienna;width:50%;
+}
+
 
 
