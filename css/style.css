@@ -22,4 +22,10 @@ form{margin:auto; border:solid;color:aquamarine; background-color:sienna;width:5
 
 img{width:262px; height:244px}
 
+fieldset{margin-top: auto; background-color:darkgoldenrod;
+padding-top: 5px; border-bottom-color: crimson;
+}
+
+section{margin: auto; background-color:green;}
+
 
